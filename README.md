@@ -1,0 +1,1 @@
+Splits your Moxfield decklist into expensive and cheap cards and outputs lists of both which can then be copy-pasted into your card shop's or your proxy provider's bulk lookup tool.
